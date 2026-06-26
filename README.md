@@ -9,9 +9,8 @@
 
 ### Enlaces
 
-* **Proyecto ejecutable:** [AGREGAR LINK PÚBLICO DE P5.JS]
-* **Código editable:** [AGREGAR LINK EDITABLE DE P5.JS]
-* **Repositorio de GitHub:** [AGREGAR LINK DEL REPOSITORIO]
+* **Proyecto ejecutable:** [[AGREGAR LINK PÚBLICO DE P5.JS](https://editor.p5js.org/joan.acevedo/full/vKaZcvYyn)]
+* **Código editable:** [[AGREGAR LINK EDITABLE DE P5.JS](https://editor.p5js.org/joan.acevedo/sketches/vKaZcvYyn)]
 
 ---
 
